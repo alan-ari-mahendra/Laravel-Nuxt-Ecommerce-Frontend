@@ -23,7 +23,7 @@
         <!-- end content -->
 
         <footer class="c-footer">
-          <div><strong>MI STORE</strong> &copy; 2021 - SantriKoding.com.</div>
+          <div><strong>MI STORE</strong> &copy; 2023 - yanafriyoko.com.</div>
           <div class="ml-auto">Template by&nbsp;<a href="https://coreui.io/">CoreUI</a></div>
         </footer>
       </div>
